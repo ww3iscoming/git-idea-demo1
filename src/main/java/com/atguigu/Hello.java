@@ -8,5 +8,9 @@ public class Hello {
         System.out.println("你好2");
         System.out.println("你好3");
         System.out.println("你好3");
+        
+        System.out.println("哈哈");
+        System.out.println("哈哈");
     }
+    
 }
